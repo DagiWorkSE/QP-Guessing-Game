@@ -1,7 +1,8 @@
 # QP-Guessing-Game
 This Game was Developed During Covid time as a side project 
-It is developed using C++ and is a One player guessing game that is played against the computer
-to play the game 
+It is developed using C++ and is a One player guessing game that is played against the computer.
+
+To play the game :
  - the player must hold 4 diiferent numbers in the range from 1 - 9 in a specific order 
  - the computer does this also
  - next the player guesses 4 numbers that the player thinks are the numbers the computer held in the specific order it is held
